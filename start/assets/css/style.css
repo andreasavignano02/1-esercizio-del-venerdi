@@ -1,0 +1,179 @@
+/* info generali*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+body{
+    font-size: 1.2rem;
+    color: #393d41;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.65;
+    font-size: large;
+}
+
+h1 , h2 , h3{
+    color: #25a2c3;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+    padding: 30px 30px 15px 30px;
+    text-align: center;
+}
+
+.bordi{
+    border-color: #dee1e3;
+}
+
+
+/*HEADER*/
+
+header{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+}
+
+header img{
+    width: 200px;
+    height: 61.533px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    max-width: 200px;
+    max-height: 61.533px;
+    border-radius: 0;
+}
+
+/*Elementi del MAIN*/
+
+article div {
+    background-image: url(../images/banner.jpg);
+    background-size: contain;
+
+}
+
+.inizio_main{
+    text-align: center;
+    height: 270px;
+}
+
+p{
+    text-align: center;
+    padding: 5px 20px 20px 20px;
+}
+
+button{
+    background-color: #f04c2f;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+img{
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    margin-left: 50px;
+}
+
+.contenuto{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.secondo_main{
+    text-align: center;
+    background-color: #f04c2f;
+    color: white;
+}
+
+cite{
+    font-style: italic;
+}
+
+#unico{
+    margin: 20px;
+}
+
+
+.primaclasse{
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.secondaclasse{
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.terzaclasse{
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+.primaclasse img{
+    border-radius: 0;
+    align-items: center;
+    margin: 30px;
+}
+
+.secondaclasse img{
+    border-radius: 0;
+    margin: 30px;
+}
+
+.terzaclasse img{
+    border-radius: 0;
+    margin: 30px;
+}
+
+/*FOOTER*/
+
+footer{
+    background-color: #25a2c3;
+    color: #c8e7f0;
+
+}
+
+
+footer link{
+    color: #c8e7f0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
