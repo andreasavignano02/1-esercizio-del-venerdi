@@ -141,9 +141,14 @@ footer link{
     color: #c8e7f0;
 }
 
+ul li{
+    text-align: center;
+    
+}
 
-
-
+hr{
+    color: white;
+}
 
 
 
